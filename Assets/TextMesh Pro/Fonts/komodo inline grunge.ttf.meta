@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6ce7354fc351d2f4593bdfadd99a59c3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - komodo inline grunge
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d2b8e199766d1dc44b8914e106d13cc1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
